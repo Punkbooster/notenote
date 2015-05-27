@@ -4,4 +4,6 @@ Users have possibility to registrate/log in and to CRUD notes.
 
 Some fonts are taken from service: font awesome.
 
-Two different index pages, which one is depence on if user signed in or not. 
+Two different index pages, which one is depence on if user signed in or not.
+
+All styling is made in Scss

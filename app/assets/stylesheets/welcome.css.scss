@@ -1,6 +1,7 @@
 #banner {
 	background-image: url(image_path("welcome_banner_image.jpg"));
 	background-size: cover;
+	height:400px;
 	background-repeat: no-repeat;
 	background-position: top center;
 	width: 100%;
@@ -44,7 +45,7 @@
 	background-repeat: no-repeat;
 	background-position: top center;
 	width: 100%;
-	min-height: 400px;
+	height:400px;
 	display: table;
 	.callout_inner {
 		display: table-cell;

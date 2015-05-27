@@ -6,4 +6,4 @@ Some fonts are taken from service: font awesome.
 
 Two different index pages, which one is depence on if user signed in or not.
 
-All styling is made in Scss
+All styling is done in Scss
